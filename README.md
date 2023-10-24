@@ -3,7 +3,7 @@
 ## Who I am? :sunglasses:
 I am a Higher Technician in Electrotechnical and Automated Systems. 
 
-I'm currently studying a degree in Electrical and Industrial Electronics Engineering and I'm specialized in embedded software developing.
+I'm currently studying a degree in Electrical and Industrial Electronics Engineering and I'm specialized in embedded firmware developing.
 
 
 
